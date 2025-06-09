@@ -1,0 +1,11 @@
+{
+  "payeeName": "Harry Potter",
+  "address": "123 Main Street",
+  "city": "Victoria",
+  "state": "Melbourne",
+  "zipCode": "3000",
+  "phone": "1234567890",
+  "account": "9876543210",
+  "verifyAccount": "9876543210",
+  "confirmationMessage": "Bill Payment Complete"
+}

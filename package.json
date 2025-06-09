@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.30",
+    "playwright": "^1.52.0"
+  },
+  "name": "febric",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "playwright-core": "^1.52.0"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

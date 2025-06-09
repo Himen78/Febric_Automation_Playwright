@@ -1,0 +1,10 @@
+{
+  "firstName": "Test",
+  "lastName": "User",
+  "address": "123 Test Street",
+  "city": "Testville",
+  "state": "TS",
+  "zipCode": "123456",
+  "phoneNumber": "9876543210",
+  "ssn": "123-45-6789"
+}
