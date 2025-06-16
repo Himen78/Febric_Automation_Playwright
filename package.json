@@ -10,7 +10,10 @@
   "dependencies": {
     "playwright-core": "^1.52.0"
   },
-  "scripts": {},
+  "scripts": {
+    "docker:build":"docker build -t playwright-tests .",
+    "docker:run":"docker run --rm playwright-tests npx playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
